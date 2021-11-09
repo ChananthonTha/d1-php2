@@ -16,6 +16,6 @@
         echo $msg, $name ,' ', $y,"<br />"; 
     }
 
-    echo $msg;
+    echo $msg . "<br />";
     myTest();
 ?>
